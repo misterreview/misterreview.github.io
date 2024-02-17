@@ -1300,6 +1300,8 @@ input, select, textarea {
 			display: flex;
    			justify-content: center;
    			align-items: center;
+			box-shadow: none;
+
 		}
 
 			#header .logo .icon:before {
